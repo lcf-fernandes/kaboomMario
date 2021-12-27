@@ -1,0 +1,19 @@
+{
+  "name": "kaboommario",
+  "version": "1.0.0",
+  "description": "Mario game project using javascript with kaboom",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcf-fernandes/kaboomMario.git"
+  },
+  "author": "Leandro Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcf-fernandes/kaboomMario/issues"
+  },
+  "homepage": "https://github.com/lcf-fernandes/kaboomMario#readme"
+}
